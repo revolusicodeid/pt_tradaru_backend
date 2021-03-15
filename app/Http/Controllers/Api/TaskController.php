@@ -9,8 +9,6 @@ use App\HelperServices\ProfitHelper;
 use App\HelperServices\ShiftHelper;
 use Validator;
 use Exception;
-use DB;
-use Str;
 
 class TaskController extends Controller
 {
